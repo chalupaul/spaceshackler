@@ -1,6 +1,5 @@
 // tests-pressureTank.cpp
 #include "catch.hpp"
-
 #include "pressureTank.hpp"
 
 TEST_CASE( "Pressurized tanks", "[pressureTank" ) {
